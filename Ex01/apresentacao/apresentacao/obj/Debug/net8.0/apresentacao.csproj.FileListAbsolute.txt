@@ -1,0 +1,14 @@
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\bin\Debug\net8.0\apresentacao.exe
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\bin\Debug\net8.0\apresentacao.deps.json
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\bin\Debug\net8.0\apresentacao.runtimeconfig.json
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\bin\Debug\net8.0\apresentacao.dll
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\bin\Debug\net8.0\apresentacao.pdb
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.AssemblyInfoInputs.cache
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.AssemblyInfo.cs
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.dll
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\refint\apresentacao.dll
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.pdb
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\apresentacao.genruntimeconfig.cache
+C:\Users\alban\Documents\Visual Studio 2022\Projetos\apresentacao\apresentacao\obj\Debug\net8.0\ref\apresentacao.dll
