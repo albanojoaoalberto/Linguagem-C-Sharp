@@ -1,0 +1,7 @@
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\bin\Debug\Ex03.exe.config
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\bin\Debug\Ex03.exe
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\bin\Debug\Ex03.pdb
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\obj\Debug\Ex03.csproj.AssemblyReference.cache
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\obj\Debug\Ex03.csproj.CoreCompileInputs.cache
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\obj\Debug\Ex03.exe
+C:\Users\alban\Documents\Console Aplication\Ex03\Ex03\obj\Debug\Ex03.pdb
