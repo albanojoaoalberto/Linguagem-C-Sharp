@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vd16Cf3MQu1e8BkiYrNL5wn8qaJWXJfzUOmd9bIPm/3MMjrMiO5nGwzsCiN6xL4VxNQkr0i6iKbnt5Qua2JAaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alban\\Documents\\Console Aplication\\Se livrar da maldição\\Se livrar da maldição\\Se livrar da maldição.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alban\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\alban\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\alban\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

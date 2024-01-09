@@ -1,0 +1,14 @@
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\bin\Debug\net8.0\Se livrar da maldição.exe
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\bin\Debug\net8.0\Se livrar da maldição.deps.json
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\bin\Debug\net8.0\Se livrar da maldição.runtimeconfig.json
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\bin\Debug\net8.0\Se livrar da maldição.dll
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\bin\Debug\net8.0\Se livrar da maldição.pdb
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.AssemblyInfoInputs.cache
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.AssemblyInfo.cs
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.csproj.CoreCompileInputs.cache
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.dll
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\refint\Se livrar da maldição.dll
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.pdb
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\Se livrar da maldição.genruntimeconfig.cache
+C:\Users\alban\Documents\Console Aplication\Se livrar da maldição\Se livrar da maldição\obj\Debug\net8.0\ref\Se livrar da maldição.dll
