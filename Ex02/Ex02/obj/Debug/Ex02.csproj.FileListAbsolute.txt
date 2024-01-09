@@ -1,7 +1,0 @@
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\bin\Debug\Ex02.exe.config
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\bin\Debug\Ex02.exe
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\bin\Debug\Ex02.pdb
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\obj\Debug\Ex02.csproj.AssemblyReference.cache
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\obj\Debug\Ex02.exe
-C:\Users\alban\Documents\Console Aplication\Ex02\Ex02\obj\Debug\Ex02.pdb
