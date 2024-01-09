@@ -1,0 +1,23 @@
+1. CONVERSÕES DE TIPOS DE DADOS 
+
+A leitura de variáveis do tipo numérica (int e double) são um pouquinho diferentes, elas precisam 
+ser convertidas. 
+
+Ou seja quando o usuário digita algo no teclado o computador sempre irá entender 
+tudo que for digitado como texto, ou seja, ele entende tudo como String. 
+
+Mesmo que você digite 
+um número, o computador irá entender como sendo apenas um símbolo qualquer.
+
+Para que o computador possa entender que nem tudo que digitamos é String, devemos então 
+informar a ele o tipo de valor que queremos informar e para isso precisamos fazer a conversão 
+usando o comando Especificados abaixo
+
+Inteiro -> String Convert.ToString() String.Parse()
+String -> Inteiro Convert.ToInt32() Int.Parse()
+Inteiro -> Double Convert.ToDouble() Double.Parse()
+Double -> Inteiro Convert.ToInt32() Int.Parse()
+Char -> String Convert.ToString() String.Parse()
+String -> Char Convert.ToChar() Char.Parse()
+
+
