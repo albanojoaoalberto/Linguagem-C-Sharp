@@ -1,0 +1,10 @@
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\bin\Debug\Sistema de Venda SEm Base de Dados.exe.config
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\bin\Debug\Sistema de Venda SEm Base de Dados.exe
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\bin\Debug\Sistema de Venda SEm Base de Dados.pdb
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema de Venda SEm Base de Dados.csproj.AssemblyReference.cache
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema_de_Venda_SEm_Base_de_Dados.Form1.resources
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema_de_Venda_SEm_Base_de_Dados.Properties.Resources.resources
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema de Venda SEm Base de Dados.csproj.GenerateResource.cache
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema de Venda SEm Base de Dados.csproj.CoreCompileInputs.cache
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema de Venda SEm Base de Dados.exe
+C:\Users\alban\Documents\Console Aplication\Sistema de Venda SEm Base de Dados\Sistema de Venda SEm Base de Dados\obj\Debug\Sistema de Venda SEm Base de Dados.pdb
